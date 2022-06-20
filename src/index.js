@@ -4,7 +4,6 @@ import ReactDOM from "react-dom";
 const name = "Nikheel Sonagote";
 const currentDate = new Date();
 const year = currentDate.getFullYear();
-console.log(year);
 
 ReactDOM.render(
   <div>
